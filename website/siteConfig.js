@@ -43,8 +43,8 @@ const siteConfig = {
 
     /* Colors for website */
     colors: {
-        primaryColor: '#2C312E',
-        secondaryColor: '#BF8DF2',
+        primaryColor: '#BF8DF2',
+        secondaryColor: '#2C312E',
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/hang-m-cao/',
+        linkedin: 'hang-m-cao/',
         twitter: '',
-        github: 'https://github.com/hang-m-cao/',
+        github: 'hang-m-cao/',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
