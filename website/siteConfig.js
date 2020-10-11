@@ -69,7 +69,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'hang-m-cao/',
-        documentation: '',
+        documentation: 'hang-m-cao/tech-portfolio',
         github: 'hang-m-cao/',
     },
 
